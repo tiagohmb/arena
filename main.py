@@ -116,9 +116,15 @@ while True:
                     else:
                         contarSaida()
 
+<<<<<<< HEAD
     # cv2.imshow('frame', frame)
     # if cv2.waitKey(1) == ord('q') or cv2.waitKey(1) == ord('Q'):
     #     break
+=======
+    #cv2.imshow('frame', frame)
+    #if cv2.waitKey(1) == ord('q') or cv2.waitKey(1) == ord('Q'):
+    #    break
+>>>>>>> 502e39d4d61aed09ae800d675fc02a6c9f366ae3
 
 cap.release()
 cv2.destroyAllWindows()
